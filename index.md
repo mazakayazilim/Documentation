@@ -1,0 +1,1 @@
+Mazaka Yazılım Eticaret Dokümantasyonu
