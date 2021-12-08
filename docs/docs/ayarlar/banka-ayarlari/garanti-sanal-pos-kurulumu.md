@@ -2,6 +2,7 @@
 layout: default
 title: Garanti Sanal Pos Entegrasyon İşlemleri
 parent: Banka Ayarları
+grand_parent: Ayarlar
 nav_order: 1
 ---
 
