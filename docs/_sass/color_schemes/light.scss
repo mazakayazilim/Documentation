@@ -10,13 +10,13 @@ $header-height: 70px !default;
 }
 
 .main {
-  max-width: 100%;
+  max-width: 100% !important;
   @include mq(lg) {
-    margin-left: $nav-width;
+    margin-left: $nav-width !important;
   }
 }
 
 .main-content-wrap {
-  max-width: calc($content-width + $nav-width);
-  margin: 0 auto;
+  max-width: #{$content-width + $nav-width} !important;
+  margin: 0 auto !important;
 }
