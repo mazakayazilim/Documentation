@@ -7,7 +7,7 @@ $body-heading-color: $grey-lt-000;
 $nav-child-link-color: $grey-dk-000;
 $search-result-preview-color: $grey-dk-000;
 
-$link-color: $blue-000;
+$link-color: $grey-lt-300;
 $btn-primary-color: $blue-200;
 $base-button-color: $grey-dk-250;
 
@@ -18,6 +18,7 @@ $feedback-color: darken($sidebar-color, 3%);
 
 $nav-width: 326px;
 $nav-width-md: 326px;
+$header-height: 70px !default;
 
 .side-bar {
   @include mq(lg) {
@@ -26,6 +27,14 @@ $nav-width-md: 326px;
   }
 }
 
-.deneme-123{
-    background: #CCC;
+.main {
+  max-width: 100%;
+  @include mq(lg) {
+    margin-left: $nav-width;
+  }
+}
+
+.main-content-wrap {
+  max-width: calc($content-width + $nav-width);
+  margin: 0 auto;
 }

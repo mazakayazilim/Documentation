@@ -1,5 +1,6 @@
 $nav-width: 326px;
 $nav-width-md: 326px;
+$header-height: 70px !default;
 
 .side-bar {
   @include mq(lg) {
@@ -8,6 +9,14 @@ $nav-width-md: 326px;
   }
 }
 
-.deneme-123{
-    background: #CCC;
+.main {
+  max-width: 100%;
+  @include mq(lg) {
+    margin-left: $nav-width;
+  }
+}
+
+.main-content-wrap {
+  max-width: calc($content-width + $nav-width);
+  margin: 0 auto;
 }
