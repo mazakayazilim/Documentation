@@ -35,6 +35,6 @@ $header-height: 70px !default;
 }
 
 .main-content-wrap {
-  max-width: calc($content-width + $nav-width) !important;
+  max-width: #{$content-width + $nav-width} !important;
   margin: 0 auto !important;
 }
