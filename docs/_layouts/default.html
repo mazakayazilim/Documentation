@@ -64,6 +64,21 @@ layout: table_wrappers
         {% include nav.html pages=site.html_pages %}
       {% endif %}
     </nav>
+    <footer class="site-footer">
+      <button class="btn js-toggle-dark-mode">Karanlık Mod</button>
+      <script>
+      const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+      jtd.addEvent(toggleDarkMode, 'click', function(){
+        if (jtd.getTheme() === 'dark') {
+          jtd.setTheme('light');
+          toggleDarkMode.textContent = 'Karanlık Mod';
+        } else {
+          jtd.setTheme('dark');
+          toggleDarkMode.textContent = 'Aydınlık Mod';
+        }
+      });
+      </script>
+    </footer>
   </div>
   <div class="main" id="top">
     <div id="main-header" class="main-header">
