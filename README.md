@@ -20,6 +20,8 @@ Yazının en başına şu alanlarını ekliyoruz:
 ---
 layout: default
 title: Sayfa Başlığı
+description: "Mazaka Yazılım Eticaret dokümantasyonu."
+permalink: /sayfa
 parent: Ürün Sayfa
 grand_parent: Ayarlar
 nav_order: 1
@@ -28,6 +30,10 @@ nav_order: 1
 layout -> hangi temayı kullanacağını belirtmek için. Şimdilik tek bir tema olduğu için default yazmamız yeterli.
 
 title -> Hem sayfa başlığında hem menülerde kullanılan Başlık alanı
+
+description -> Sayfa için açıklama alanı
+
+permalink -> Sayfa için kullanılacak Url
 
 parent -> Bir üst sayfayı belirtmek için kullanılan alan
 
