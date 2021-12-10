@@ -1,0 +1,18 @@
+.side-bar {
+  @include mq(lg) {
+    width: $nav-width !important;
+    min-width: $nav-width !important;
+  }
+}
+
+.main {
+  max-width: 100% !important;
+  @include mq(lg) {
+    margin-left: $nav-width !important;
+  }
+}
+
+.main-content-wrap {
+  max-width: #{$content-width + $nav-width} !important;
+  margin: 0 auto !important;
+}
