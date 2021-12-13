@@ -20,7 +20,7 @@
 // Breadcrumb nav
 
 .breadcrumb-nav {
-  margin: calc(($header-height - $body-line-height)/2) 40px;
+  margin: #{($header-height - $body-line-height)/2} 40px !important;
   @include mq(md) {
     margin-top: 0;
   }
@@ -34,7 +34,7 @@
 
 .breadcrumb-nav-list-item {
   display: table-cell;
-  @include fs-4;
+  @include fs-3;
 
   &::before {
     display: none;
