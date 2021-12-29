@@ -43,10 +43,16 @@ Temel ürün güncelleme olarak direkt ürün tablosunda yapacağınız güncell
 
 Kategori, marka, role göre fiyatlandırma, etiket, opsiyonlar gibi alanların eklenirken yada güncellenirken dolu olması halinde eski verileri silip girmiş olduğunuz verileri kabul etmek yerine girdiğiniz her veriyi eğer daha önce eklenmemiş ise kaydediyoruz.
 Bu size hızlı bir güncelleme imkanı sağlıyor, aksi halde 10 etiketi olan bir ürüne 11.etiket eklemek istediğinde, etiket alanına 11 tane veri yazmanız gerekmektedir. Dezavantajı ise varolan özellikleri silmek için ek bir işlem yapmanız gerekecektir.
+
 **Kategori ->** alanına yazacağınız verileri noktalı virgül ile ayırarak yazmanız gereklidir!
+
  **Marka->** alanına yazacağınız verileri noktalı virgül ile ayırarak yazmanız gereklidir!
+ 
 **Etiket->** alanına yazacağınız verileri noktalı virgül ile ayırarak yazmanız gereklidir!
+
 **Dil->** alanına yazacağınız verileri noktalı virgül ile ayırarak yazmanız gereklidir!
+
 **Opsiyon->** alanına yazacağınız veriler için **option1** ve **optiondeger1** şeklinde birbirini takip eden bir kural kullanmak zorundasın! Girmek istediğin ilk opsiyonu **option1** alanına ve değerini de **optiondeger1** alanına yazmalısın aksi halde hata alacaksın! devam eden opsiyonların için **option2** ve **optiondege2** şeklinde yazarak gerekli sayıda giriş yapabilirsin. Sırasını karıştırmamaya dikkat etmelisin!
+
 **Rol Fiyat->** alanına yazacağınız veriler için **tprole1** , **tpprice1** ve **tpquantity1** şeklinde girişini kullanmak zorundasın. Alanlara ekleme yapacaksan bu alanların excel stunlarında bulunması zorunludur! eklemek istediğin diğer rol fiyatları için opsiyondaki gibi aynı alanların sonunda 2 yazarak yeni stunlara ekleyebilirsin. Sırasını karıştırmamaya dikkat etmelisin! Ürüne girmiş olduğun role ile ekli bir fiyat var ise güncelleme işlemi yapacaktır. Yok ise role ve ürüne o fiyat eklenecektir.
  
