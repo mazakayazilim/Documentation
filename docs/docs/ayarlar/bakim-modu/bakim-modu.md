@@ -2,8 +2,8 @@
 layout: default
 title: Bakım Modu
 description: "Mazaka Yazilim Eticaret Bakım Modu Açma."
-nav_order: 2
-has_children: true
+nav_order: 3
+has_children: false
 parent: Ayarlar
 permalink: /docs/ayarlar/bakim-modu
 ---
