@@ -15,7 +15,7 @@ Merhabalar bu dökümantasyonda panel üzerinden bir sistem nasıl sıfırlanır
 
 İlk olarak panel üzerinde bulunan sol menüden **Sistem** > **Ayarlar** seçeneklerine ulaşıyoruz. Daha sonra önümüze çıkan **Ayarlar** sayfasının sağ üst tarafında kırmızı renkte bulunan **Sistem Sıfırlama** butonuna tıklıyoruz ve karşımızda bir popup beliriyor. 
 
-Açılan popup içerisinde 6 adet seçenek ile karşılaşıyoruz. Bu seçenekleri üzerine gelip tıklama işlemi gerçekleştirdiğimizde yeşil renk olan seçenekler bizim seçtiğimiz seçenekler olmaktadır.
+Açılan popup içerisinde 6 adet seçenek ile karşılaşıyoruz. Bu seçenekleri üzerine gelip tıklama işlemi gerçekleştirdiğimizde yeşil renk olan seçenekler bizim sistem de sıfırlamak istediğimiz seçenekler olmaktadır.
 
 **1-) Kullanıcı Sıfırlama**
 - Sistem içerisinde bulunan Admin yetkisi haricindeki  ve herhangi bir  yetkiye sahip kullanıcılar hariç bütün kullanıcılar silinir.
