@@ -30,6 +30,8 @@ Excel ile sisteme aktarmak istediğin ürün listesinde;
 
 demektir.  
 
+Not: -1 yazdığınız halde ürün silinmemiş ancak kod alanı -1 olarak güncellenmiş ise bu demektir ki ürün, ana varyant ürünüdür alt varyantlar silinmeden, onu silemeyeceğiniz manasına gelir.
+
 Giriş yapılan alanlara girilebilecek olası girilebilecek yanlış veriler için(fiyata alanında beşyüz yazmak gibi) elimizden gelen kontrolleri sağladık, sizde dikkatli olursanız seviniriz..
 
 ## Temel Ürün Ekleme/Güncelleme
