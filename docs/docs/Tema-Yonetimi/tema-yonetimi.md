@@ -41,3 +41,6 @@ Dosya seçme veya link girme işleminiz yaptıktan sonra varsa dosyaya ait şifr
 - Tema export esnasında page sectionlar json olarak alınır daha sonra içersinde geçen fotoğraflar ve tema dosyaları zip olarak alınır.
 
 - Tema import esnasında ise export sırasında json dosyası veritabanına işlenir, alınan fotoğraflar uploads dosyasına temalar ise themes dosyası içersine çıkarılır.
+
+**Önemli**
+ - Sisteminizdeki **Content** klasörüne izin vermeniz gerekmektedir.
