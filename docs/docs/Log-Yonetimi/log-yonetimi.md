@@ -38,13 +38,7 @@ Eğer ayarlar gözükmüyorsa log mekanizmasının çalışılması istenilen ve
 
 **1-) Log Görüntüleme**
 
-Sistemlerin Loglarını görüntüleyebilmek için ortak platform olan log.mazakayazilim.com:3000 adresine giriş yapmamız gerekmektedir. Giriş bilgileri;
-
--  **Kullanıcı Adı** : admin
-
--  **Şifre**: 238855Yby.
-
-  
+Sistemlerin Loglarını görüntüleyebilmek için ortak platform olan log.mazakayazilim.com:3000 adresine giriş yapmamız gerekmektedir.  
 
 - Giriş yaptıktan sonra karşımıza 'Welcome to Grafana' yazılı bir ekran çıkmaktadır. Daha sonra sol tarafta bulunan butonlarda pusula işaretine(Zil işaretinin üzerindeki) tıklıyoruz. Tıkladıktan sonra bizi aşağıdaki ekran karşılamakta. Burada 'Explore' yazan yerin yanındaki dropdrown'dan Loki'yi seçiyoruz.
 
