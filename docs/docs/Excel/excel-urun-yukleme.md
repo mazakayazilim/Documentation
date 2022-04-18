@@ -2,7 +2,7 @@
 layout: default
 title: Excel Urun Yukleme
 description: "Mazaka Yazilim Eticaret dokumantasyonu."
-permalink: /sayfa
+permalink: /docs/excel-urun-yukleme
 parent: Excel Urun Yukleme
 grand_parent: Excel
 nav_order: 1
