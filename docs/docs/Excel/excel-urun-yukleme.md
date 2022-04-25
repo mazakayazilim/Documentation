@@ -1,11 +1,10 @@
-
 ---
 layout: default
 title: Excel Ürün Yükleme
-description: "Mazaka Yazilim Eticaret dokumantasyonu."
-permalink: /docs/excel-urun-yukleme
-grand_parent: Excel
+description: "Mazaka Yazilim E-Ticaret Excel Yonetim Dokumantasyonu."
 nav_order: 1
+has_children: false
+permalink: /docs/excel-urun-yukleme
 ---
 
 # Excel Kullanım Dökümantasyonuna Hoş Geldiniz!
