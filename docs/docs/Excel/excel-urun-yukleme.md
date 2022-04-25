@@ -2,7 +2,7 @@
 layout: default
 title: Excel Ürün Yükleme
 description: "Mazaka Yazilim E-Ticaret Excel Yonetim Dokumantasyonu."
-nav_order: 1
+nav_order: 4
 has_children: false
 permalink: /docs/excel-urun-yukleme
 ---
