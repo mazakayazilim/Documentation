@@ -141,7 +141,7 @@ Bu size hızlı bir güncelleme imkanı sağlıyor, aksi halde 10 etiketi olan b
 
 **Dil :** Culture, alanına yazacağınız verileri noktalı virgül ile ayırarak yazmanız gereklidir!
 
-**Opsiyon :** alanına yazacağınız veriler için **option1** ve **optiondeger1** şeklinde birbirini takip eden bir kural kullanmak zorundasın! Girmek istediğin ilk opsiyonu **option1** alanına ve değerini de **optiondeger1** alanına yazmalısın aksi halde hata alacaksın! devam eden opsiyonların için **option2** ve **optiondege2** şeklinde yazarak gerekli sayıda giriş yapabilirsin. Sırasını karıştırmamaya dikkat etmelisin!
+**Opsiyon :** alanına yazacağınız veriler için **option1** ve **optiondeger1** şeklinde birbirini takip eden bir kural kullanmak zorundasın! Girmek istediğin ilk opsiyonu **option1** alanına ve değerini de **optiondeger1** alanına yazmalısın aksi halde hata alacaksın! devam eden opsiyonların için **option2** ve **optiondeger2** şeklinde yazarak gerekli sayıda giriş yapabilirsin. Sırasını karıştırmamaya dikkat etmelisin!
 
 **Varyant :** alanına yazacağınız veriler için **variant1** ve **variantdeger1** şeklinde birbirini takip eden bir kural kullanmak zorundasın! Girmek istediğin ilk varyantı **variant1** alanına ve değerini de **variantdeger1** alanına yazmalısın aksi halde hata alacaksın! devam eden varyantların için **variant2** ve **variantdeger2** şeklinde yazarak gerekli sayıda giriş yapabilirsin. Sırasını karıştırmamaya dikkat etmelisin!
 
