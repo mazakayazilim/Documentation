@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Excel Ürün Yükleme
+title: Excel İle İşlemler
 description: "Mazaka Yazilim E-Ticaret Excel Yonetim Dokumantasyonu."
 nav_order: 4
 has_children: false
