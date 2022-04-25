@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Excel Urun Yukleme
+title: Excel Ürün Yükleme
 description: "Mazaka Yazilim Eticaret dokumantasyonu."
 permalink: /docs/excel-urun-yukleme
 grand_parent: Excel
