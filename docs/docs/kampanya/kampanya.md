@@ -74,7 +74,7 @@ Daha sonra **İndirim Tipi** de belirlenerek kampanya kaydedilmelidir.
 ### Kampanya Koşullarının Belirlenmesi
 Kampanyanın öncelikle koşulları belirlenir burada gelişmiş kampanya koşulları oluşturabilir ve bunları birbirleriyle kombinleyebilirsiniz.
 
- ###  Şart Grubu:
+ ### Şart Grubu
  
  - Şart gruplarında belirlenen şartlardan hepsinin veya herhangi birinin doğruluğuna göre bir kampanya belirleyebilirsiniz.
 	- Örn: 200 TL ve üzeri alışverişte A Ürününden 2 taneden fazla alması durumunda şartların ikisinin de sağlanmış olmasını isterseniz  Üstteki Şartların **Hepsi**'nin doğru seçilmesi gerekmektedir.
@@ -97,10 +97,10 @@ Burada çoklu kampanya senaryosu da tek bir kampanyada kurgulanabilmektedir.
    seçeneği ile iki farklı kampanya da aynı kampanyanın içerisinde
    oluşturulabilmektedir.
 
- ### Şart :
+ ### Şart
 
  
- #### Şart Türleri
+ ### Şart Türleri
  
 Farklı türlerde şartlar belirlenebilmektedir.
  - **Sepet Toplamı**: Sepetin fiyat toplamına dayalı bir koşul eklenmesi için kullanılmalıdır. 
