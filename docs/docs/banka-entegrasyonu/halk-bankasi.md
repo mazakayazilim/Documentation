@@ -1,11 +1,12 @@
 ---
 layout: default
-title: İş Bankası Sanal Pos Dokümanı
+title: Halk Bankası Sanal Pos Dokümanı
 parent: Banka Entegrasyonu
-nav_order: 3
+nav_order: 2
+has_children: false
 ---
 
-# İş Bankası Sanal Pos Dokümanı
+# Halk Bankası Sanal Pos Dokümanı
 
 **1-)** Öncelikle mail üzerinden size iletilen bilgilerle Halkbank sanal pos adresine giriş yapılır.
 

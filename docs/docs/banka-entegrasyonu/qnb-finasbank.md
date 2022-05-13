@@ -3,6 +3,7 @@ layout: default
 title: QNB Bankası Sanal Pos Dokümanı
 parent: Banka Entegrasyonu
 nav_order: 4
+has_children: false
 ---
 
 # QNB Finasbank Bankası Sanal Pos Dokümanı

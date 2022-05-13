@@ -2,7 +2,8 @@
 layout: default
 title: Ziraat Bankası Sanal Pos Dokümanı
 parent: Banka Entegrasyonu
-nav_order: 5
+nav_order: 6
+has_children: false
 ---
 
 # Ziraat Bankası Sanal Pos Dokümanı

@@ -3,6 +3,7 @@ layout: default
 title: Vakif Bankası Sanal Pos Dokümanı
 parent: Banka Entegrasyonu
 nav_order: 5
+has_children: false
 ---
 
 # Vakıf Bankası Sanal Pos Dokümanı
