@@ -3,7 +3,6 @@ layout: default
 title: İş Bankası Sanal Pos Dokümanı
 parent: Banka Entegrasyonu
 nav_order: 3
-has_children: false
 ---
 
 # İş Bankası Sanal Pos Dokümanı

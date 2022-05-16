@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Banka Entegrasyonları
+title: Banka Entegrasyonu
+description: "Mazaka Yazilim E-Ticaret Sanal Pos Entegrasyon Dokumantasyonu."
 nav_order: 1
 has_children: true
 permalink: /docs/banka-entegrasyonu

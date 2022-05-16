@@ -3,7 +3,6 @@ layout: default
 title: Halk Bankası Sanal Pos Dokümanı
 parent: Banka Entegrasyonu
 nav_order: 2
-has_children: false
 ---
 
 # Halk Bankası Sanal Pos Dokümanı

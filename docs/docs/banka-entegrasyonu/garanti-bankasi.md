@@ -3,7 +3,6 @@ layout: default
 title: Garanti Bankası Sanal Pos Dokümanı
 parent: Banka Entegrasyonu
 nav_order: 1
-has_children: false
 ---
 
 # Garanti Bankası Sanal Pos Dokümanı

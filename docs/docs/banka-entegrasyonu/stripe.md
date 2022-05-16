@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Stripe Entegrasyonu
-description: "Mazaka Yazilim E-Ticaret Stripe Entegrasyon Dokumantasyonu."
+parent: Banka Entegrasyonu
 nav_order: 7
-has_children: false
 ---
 
 # Stripe Entegrasyonu Kullanım Dökümantasyonu
