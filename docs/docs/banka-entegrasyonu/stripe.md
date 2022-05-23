@@ -68,6 +68,8 @@ Stripe > Register > Signin [stripe.com/en-gb-us](https://stripe.com/en-gb-us)
 
 Bunun iki yolu bulunmaktadır. İster E-Ticaret sisteminize ait panelinizden entegre bir şekilde  ya da Stripe panelinizden iade işlemini gerçekleştirebilirsiniz.
 
+**Önemli** Müşterinizin ödemesini iade yapabilmek için müşterinizin siteye kayıt olduğu mail adresi, ödeme yaparken girmiş olduğu mail adresinden farklı olmamalıdır. Stripe iade işlemine müşterinin mailine göre gerçekleştiriyor. 
+
 **1-)E-Ticaret Paneli**
 
 Müşteriniz yapmış olduğu ödemeyi iade etmek istediğinde paneliniz üzerinden müşterinizin sipariş detayına girmelisiniz. Ödeme başarılı oldu ise **Sipariş Detayda** ödeme durumu **Ödendi** ve başarılı ise **Ücret İptal/İade** butonu çıkar. Bu butona tıklandığında iade işlemi gerçekleşmiş olur.
