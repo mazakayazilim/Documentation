@@ -109,9 +109,16 @@ Sorularınız için **destek@mazakayazilim.com** ‘a ulaşabilirsiniz
 **1-)** Eğer **TerminalId** tanımsız diyorsa; **Business No** alanına üye işyeri nosunu girmişsinizdir.
 **2-)** Güvenlik kodu hatalı derse ; Security Key alanınındaki şifreyi Garanti Sanal Pos ekranına girip tekrar değiştirmeniz ve bunu panelde Business Key alanına girmeniz gerekmektedir.
 
-**Önemli** Panelinizden sadece bu bankaya ait sanal posu kullanmak istiyorsanız bankaya ait düzenleme kısmından aktit ve varsayılan olark işaretlenmelidir. Fakat sadece bu bankaya ait kartlar ile kullanmak istiyorsanız aktif etmeniz yeterlidir. 
+**Önemli** 
+- Panelinizden sadece bu bankaya ait sanal posu kullanmak istiyorsanız bankaya ait düzenleme kısmından aktit ve varsayılan olark işaretlenmelidir. Fakat sadece bu bankaya ait kartlar ile kullanmak istiyorsanız aktif etmeniz yeterlidir. 
 
 - **Aktif** ve **varsayılan** seçenekleri birlikte işaretlenmiş ise kart tipi farketmeksizin sadece bu sanal pos ile ödeme alırsınız. Fakat  **Aktif** seçeneği işaretlenmiş ise sadece bu bankaya ait kartlar ile sanal posu kullanabilirsiniz.
+
+**Önemli** 
+
+- Tahsilat sistemi kullanıyorsanız ilgili bankaya ait düzenleme kısmından sadece Direkt Ödemede Göster seçeneği işaretlenmeli
+
+- E-Ticaret sistemi kullanıyorsanız isteğinize göre Direkt Ödemede Göster yada Sepette Göster seçenkelerinden mutlaka biri, isteğe göre her ikiside işaretlenebilir
 
 
 
