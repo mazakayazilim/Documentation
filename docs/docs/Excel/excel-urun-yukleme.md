@@ -33,7 +33,7 @@ demektir.
 
 Giriş yapılan alanlara girilebilecek olası girilebilecek yanlış veriler için(fiyata alanında beşyüz yazmak gibi) elimizden gelen kontrolleri sağladık, sizde dikkatli olursanız seviniriz..
 
-## Temel Ürün Ekleme/Güncelleme
+## Ürün Ekleme/Güncelleme
 
 Ürünlerinin sistemimize kayıt biçimi basitçe ürüne sadece bir defa yazabileceğin alanlar direkt olarak ürün tablosunda, birden çok defa ekleyebileceğin alanlar ayrı ek tablolarda tutulmaktadır. Bunlara örnek vermek gerekirse ürünün adı, dili gibi bir defa olan özellikler ile varyantları, role göre fiyatlandırmaları gibi alanlar farklı tablolarda olacaktır.
 
@@ -146,3 +146,19 @@ Bu size hızlı bir güncelleme imkanı sağlıyor, aksi halde 10 etiketi olan b
 
 **Rol Fiyat :** alanına yazacağınız veriler için **tprole1** , **tpprice1** ve **tpquantity1** şeklinde girişini kullanmak zorundasın. Alanlara ekleme yapacaksan bu alanların excel stunlarında bulunması zorunludur! eklemek istediğin diğer rol fiyatları için opsiyondaki gibi aynı alanların sonunda 2 yazarak yeni stunlara ekleyebilirsin. Sırasını karıştırmamaya dikkat etmelisin! Ürüne girmiş olduğun role ile ekli bir fiyat var ise güncelleme işlemi yapacaktır. Yok ise role ve ürüne o fiyat eklenecektir.
  
+ 
+ 
+## Üründen Özellik Silme
+
+Ürünlerine eklemiş olduğunuz marka, kategori, varyant gibi özellikleri nasıl sileceğinizi buradan okuyabilirsiniz.
+
+
+**Kategori :** Category, alanına yazacağınız verilerden silmek için olanın önüne - ekleyin. Örnek     - kategori1
+
+**Marka :** Brand, alanına yazacağınız verilerden silmek için olanın önüne - ekleyin. Örnek     - marka1
+ 
+**Etiket :** Tag, alanına yazacağınız verilerden silmek için olanın önüne - ekleyin. Örnek     - etiket1
+
+**Opsiyon :** alanına yazacağınız verilerden silmek için olanın değerinin önüne - ekleyin. Örnek **option1** ve **optiondeger1** alanları için kumaş rengi option1 alanında yazılıyken - kırmızı değerini optiondeger1 alanına girerseniz üründen kırmızı opsiyonu silinecektir.
+
+**Varyant :** Varyant silmek için daha önce eklediğiniz ürün varyant ürün olarak üretilmiştir, üretilmiş olan varyant ürünün **Code** alanına -1 yazmanız gereklidir.
