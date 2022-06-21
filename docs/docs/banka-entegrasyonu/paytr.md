@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Akbank Dokümanı
+title: PayTR Dokümanı
 parent: Banka Entegrasyonu
 nav_order: 12
 ---
