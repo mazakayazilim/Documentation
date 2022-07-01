@@ -11,13 +11,15 @@ permalink: /docs/Facebook-Conversion
 
 Merhaba! burada facebook reklamların nasıl kullanacağını ve neler yapabileceğini öğreneceksin. Hazırsan başlayalım..
 
-# İhtiyacın olan veriler
++ 1. Kurulum
 
++ 1.1 Coversion Hesabı Oluşturma
 Öncelikle facebook hesabınızı **business** olarak ayarlamalısınız, bu işlem biraz zaman alabilir. Facebook Business hesabınız oluştuktan sonra, **business.facebook.com** sayfasına giderek soldaki menüden Event Manager(Olay Yöneticisi) ne girmelisiniz.
 
 
 Yine soldaki menüden Connect Data Source(Veri Kaynağı Bağla) seçeneği aldından sisteminizi, facebook business hesabınıza ekleyin. Soldaki menü altında yer alan Data Sources(Veri Kaynakları) kısmından eklemiş olduğunuz sisteminizi görüntüleyebiliyor olmanız gerekiyor.
 
+![ana-sayfa](https://user-images.githubusercontent.com/63093864/176863522-70053463-15b4-440d-b696-b4c5f585141e.png)
 
 
  
