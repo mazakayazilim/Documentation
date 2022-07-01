@@ -11,9 +11,9 @@ permalink: /docs/Facebook-Conversion
 
 Merhaba! burada facebook reklamların nasıl kullanacağını ve neler yapabileceğini öğreneceksin. Hazırsan başlayalım..
 
-+ 1. Kurulum
++ # 1. Kurulum
 
-+ 1.1 Coversion Hesabı Oluşturma
++ # 1.1 Coversion Hesabı Oluşturma
 Öncelikle facebook hesabınızı **business** olarak ayarlamalısınız, bu işlem biraz zaman alabilir. Facebook Business hesabınız oluştuktan sonra, **business.facebook.com** sayfasına giderek soldaki menüden Event Manager(Olay Yöneticisi) ne girmelisiniz.
 
 
