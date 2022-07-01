@@ -87,4 +87,4 @@ Ve buradan api için gerekli key üretimini yapalım
  
  
  + # 2 Mazaka E-Ticaret Sistemine API Ekleme
-Üretimiş olduğunuz tokeni sisteme girerek ve verileri facebooka gönder seçeneğini aktif ederek çalışmasını sağlayabilirsiniz.
+Üretmiş olduğunuz tokeni sisteme girerek ve verileri facebooka gönder seçeneğini aktif ederek çalışmasını sağlayabilirsiniz.
