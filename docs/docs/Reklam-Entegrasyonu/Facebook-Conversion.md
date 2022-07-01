@@ -20,7 +20,7 @@ Facebook Business hesabınız oluştuktan sonra, **business.facebook.com** sayfa
 
 
 Yine soldaki menüden Connect Data Source(Veri Kaynağı Bağla) seçeneği aldından sisteminizi, facebook business hesabınıza ekleyin. Soldaki menü altında yer alan Data Sources(Veri Kaynakları) kısmından eklemiş olduğunuz sisteminizi görüntüleyebiliyor olmanız gerekiyor.
-![image](https://user-images.githubusercontent.com/63093864/176868111-e51abdf8-0abb-4fae-b158-937d76427361.png)
+![image alt >](https://user-images.githubusercontent.com/63093864/176868111-e51abdf8-0abb-4fae-b158-937d76427361.png)
 
 
 
