@@ -15,6 +15,8 @@ Merhaba! burada facebook reklamların nasıl kullanacağını ve neler yapabilec
 
 + # 1.1 Coversion Hesabı Oluşturma
 Öncelikle facebook hesabınızı **business** olarak ayarlamalısınız, bu işlem biraz zaman alabilir. Facebook Business hesabınız oluştuktan sonra, **business.facebook.com** sayfasına giderek soldaki menüden Event Manager(Olay Yöneticisi) ne girmelisiniz.
+![image](https://user-images.githubusercontent.com/63093864/176864198-910d15cd-7849-4aa2-b683-f156c08a033c.png)
+
 
 
 Yine soldaki menüden Connect Data Source(Veri Kaynağı Bağla) seçeneği aldından sisteminizi, facebook business hesabınıza ekleyin. Soldaki menü altında yer alan Data Sources(Veri Kaynakları) kısmından eklemiş olduğunuz sisteminizi görüntüleyebiliyor olmanız gerekiyor.
