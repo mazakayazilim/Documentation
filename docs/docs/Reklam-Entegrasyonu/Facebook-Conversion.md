@@ -26,12 +26,6 @@ Yine soldaki menüden Connect Data Source(Veri Kaynağı Bağla) seçeneği ald�
 ![image alt ><](https://user-images.githubusercontent.com/63093864/176868111-e51abdf8-0abb-4fae-b158-937d76427361.png)
 
 
-
-
-![image alt ><](https://user-images.githubusercontent.com/63093864/176882441-f6eda95c-736f-455d-b91c-46c238a99e37.png)
-
-![ana-sayfa alt ><](https://user-images.githubusercontent.com/63093864/176863522-70053463-15b4-440d-b696-b4c5f585141e.png)
-
-
+![image alt ><](https://user-images.githubusercontent.com/63093864/176882552-403ae858-01b9-4e48-8c9f-40e3fd3adae1.png)
 
  
