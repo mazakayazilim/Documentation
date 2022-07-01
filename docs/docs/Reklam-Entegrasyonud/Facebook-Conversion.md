@@ -25,20 +25,4 @@ Yine soldaki menüden Connect Data Source(Veri Kaynağı Bağla) seçeneği ald�
 
 
 
-
-img[alt$=">"] {
-  float: right;
-}
-
-img[alt$="<"] {
-  float: left;
-}
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;
-}
  
