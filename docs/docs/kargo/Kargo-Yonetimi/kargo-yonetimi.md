@@ -4,7 +4,7 @@ title: Kargo Yonetimi
 description: "Mazaka Yazilim E-Ticaret Kargo Yonetim Dokumantasyonu."
 nav_order: 1
 has_children: false
-permalink: /docs/kargo-yonetimi
+permalink: /docs/kargo/kargo-yonetimi
 ---
 
 **KARGO DOKÜMANTASYONU**

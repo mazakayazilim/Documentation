@@ -3,7 +3,7 @@ layout: default
 title: Sistem Sıfırlama
 description: "Mazaka Yazilim Eticaret Sistem Sifirlama Dokumantasyonu."
 nav_order: 2
-has_children: true
+has_children: false
 parent: Ayarlar
 permalink: /docs/ayarlar/sistem-sifirlama
 ---
