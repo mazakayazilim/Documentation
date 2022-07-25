@@ -4,6 +4,7 @@ title: Kargo Zaman Yönetimi
 description: "Mazaka Yazilim E-Ticaret Kargo Zaman Yönetimi Dokumantasyonu."
 nav_order: 4
 has_children: false
+parent: Kargo
 permalink: /docs/kargo/kargo-zaman-yonetimi
 ---
 

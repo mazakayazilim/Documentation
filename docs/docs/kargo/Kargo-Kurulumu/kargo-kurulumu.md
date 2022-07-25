@@ -1,10 +1,10 @@
-
 ---
 layout: default
 title: Kargo Kurulumu
 description: "Mazaka Yazilim E-Ticaret Kargo Kurulum Dokumantasyonu."
 nav_order: 2
 has_children: false
+parent: Kargo
 permalink: /docs/kargo/kargo-kurulumu
 ---
 

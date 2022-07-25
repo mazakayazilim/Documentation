@@ -4,6 +4,7 @@ title: Kargo Hizmet Bölgesi
 description: "Mazaka Yazilim E-Ticaret Kargo Hizmet Bölgesi Dokumantasyonu."
 nav_order: 3
 has_children: false
+parent: Kargo
 permalink: /docs/kargo/kargo-hizmet-bolgesi
 ---
 
