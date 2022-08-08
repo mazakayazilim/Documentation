@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bakım Modu
+title: Webp Kullanımı
 description: "Mazaka Yazilim Eticaret Webp Kullanımı."
 nav_order: 3
 has_children: false
