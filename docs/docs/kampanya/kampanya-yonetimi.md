@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kampanya Yönetimi
+has_children: false
 parent: Kampanya
 nav_order: 1
 ---
