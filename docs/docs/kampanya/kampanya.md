@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Kampanya Yönetimi
-nav_order: 3
+nav_order: 1
 has_children: false
+parent: Kampanya
 permalink: /docs/kampanya
 ---
 
