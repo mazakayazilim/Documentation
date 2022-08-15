@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Kampanya Rol Yönetimi
-nav_order: 2
 parent: Kampanya
-permalink: /docs/kampanya-rol
+nav_order: 2
 ---
 
 # Kampanya Rol Yönetimi

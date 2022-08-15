@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Kampanya Yönetimi
-nav_order: 1
 parent: Kampanya
-permalink: /docs/kampanya-yonetimi
+nav_order: 1
 ---
 
 # Kampanya Yönetimi

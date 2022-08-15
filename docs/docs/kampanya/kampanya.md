@@ -7,7 +7,7 @@ has_children: true
 permalink: /docs/kampanya
 ---
 
-# Banka Entegrasyonu
+# Kampanya Yönetimi
 
-Aşağıdaki bankaları sistemimize nasıl entegre edeceğinizi anlatacağız.
+Aşağıda kampanyanızı nasıl tanımlayacağınızı ve kampanya rol yönetimini nasıl yapacağınızı anlatacağız.
 {: .fs-6 .fw-300 }
