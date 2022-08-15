@@ -3,7 +3,6 @@ layout: default
 title: Kampanya Rol Yönetimi
 nav_order: 2
 parent: Kampanya
-has_children: false
 permalink: /docs/kampanya-rol
 ---
 
