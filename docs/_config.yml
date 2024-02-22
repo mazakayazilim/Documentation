@@ -1,7 +1,7 @@
 logo: "/assets/images/mazaka-docs.png"
 title: Mazaka Yazılım Eticaret Dokümantasyonu
 description: Mazaka Yazılım eticaret paketleri için dokümantasyon sistemi
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 url: https://docsold.mazakayazilim.com
 
