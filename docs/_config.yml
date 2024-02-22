@@ -1,13 +1,17 @@
-remote_theme: pmarsceill/just-the-docs
-
 logo: "/assets/images/mazaka-docs.png"
 title: Mazaka Yazılım Eticaret Dokümantasyonu
 description: Mazaka Yazılım eticaret paketleri için dokümantasyon sistemi
+theme: just-the-docs
+
+url: https://docsold.mazakayazilim.com
 
 footer_content: 'Copyright &copy; <a href="https://www.mazakayazilim.com">Mazaka Yazılım</a>'
 
 last_edit_timestamp: false
 gh_edit_link: false
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 plugins:
     - jekyll-seo-tag
